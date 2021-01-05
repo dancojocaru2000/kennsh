@@ -10,3 +10,6 @@ kennsh.code-workspace
 # Rust stuff
 Cargo.lock
 */target/
+
+# Binary folder
+bin

@@ -2,4 +2,5 @@
 
 rm -r bin
 rm -r */target
+client/clean.sh
 
