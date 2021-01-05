@@ -1,0 +1,3 @@
+[submodule "c_wrapper"]
+	path = c_wrapper
+	url = git@github.com:dancojocaru2000/rust-c_wrapper.git

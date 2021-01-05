@@ -1,0 +1,12 @@
+# VSCode workspace
+kennsh.code-workspace
+
+# IntelliJ stuff
+*/.idea/
+
+# Kate stuff
+.kateproject
+
+# Rust stuff
+Cargo.lock
+*/target/
